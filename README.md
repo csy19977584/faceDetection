@@ -1,6 +1,6 @@
 # faceDetection
 
-## About the project
+## About the project  
 This project implements face detection and recognition by keras and opencv.
 -Detected faces from video by OpenCV-python.  
 -Trained CNN model to recognize faces by Keras-python.  
